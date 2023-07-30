@@ -7,7 +7,7 @@ import AddProductForm from './AddProductForm'
 
 const page = () => {
   return (
-    <div>
+    <div className='h-full bg-zinc-500'>
         <AddProductForm/>
     </div>
   )
